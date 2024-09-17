@@ -1,0 +1,21 @@
+Git é um sistema de controle de versão distribuído criado por Linus Torvalds em 2005. Ele surgiu para substituir o BitKeeper, que era o sistema de controle de versão utilizado para o kernel Linux e deixou de ser gratuito. Git foi projetado para ser rápido, eficiente, distribuído e garantir a integridade dos dados.
+
+
+É um sistema de controle de versão distribuído. Isso significa que cada desenvolvedor tem uma cópia completa do repositório em sua máquina local. Isso difere dos sistemas de controle de versão centralizados, onde há um único repositório central e as mudanças são enviadas para ele. Aqui estão alguns propósitos e características principais do Git:
+Rastreamento de Mudanças: Git permite que você acompanhe todas as mudanças feitas no código ao longo do tempo. Você pode ver quem fez quais mudanças e quando, e pode reverter alterações se necessário.
+
+Trabalho Colaborativo: Com Git, vários desenvolvedores podem trabalhar em diferentes partes de um projeto simultaneamente, usando ramificações (branches) e depois integrar suas mudanças (merge) de maneira eficiente.
+
+Restauração e Backup: Como cada desenvolvedor tem uma cópia completa do repositório, é possível restaurar o estado do projeto a qualquer ponto no tempo. Isso também serve como uma forma de backup.
+
+Distribuição: A arquitetura distribuída de Git permite que desenvolvedores trabalhem offline e sincronizem suas mudanças com o repositório central quando estiverem online.
+
+
+Principais pontos sobre o Git:
+Distribuído: Cada desenvolvedor tem uma cópia completa do repositório, permitindo trabalho offline e oferecendo redundância.
+
+Controle de Mudanças: Permite rastrear alterações, reverter mudanças e colaborar de maneira eficiente através de ramificações e mesclagens.
+
+Desempenho e Flexibilidade: Rápido e capaz de suportar diversos fluxos de trabalho e estratégias de ramificação.
+
+Desde seu lançamento, Git se tornou a ferramenta padrão para gerenciamento de código-fonte em muitos projetos, devido à sua robustez e versatilidade.
