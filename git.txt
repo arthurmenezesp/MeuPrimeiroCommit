@@ -11,7 +11,7 @@ Restauração e Backup: Como cada desenvolvedor tem uma cópia completa do repos
 Distribuição: A arquitetura distribuída de Git permite que desenvolvedores trabalhem offline e sincronizem suas mudanças com o repositório central quando estiverem online.
 
 
-# Principais pontos sobre o Git:
+Principais pontos sobre o Git:
 Distribuído: Cada desenvolvedor tem uma cópia completa do repositório, permitindo trabalho offline e oferecendo redundância.
 
 Controle de Mudanças: Permite rastrear alterações, reverter mudanças e colaborar de maneira eficiente através de ramificações e mesclagens.
